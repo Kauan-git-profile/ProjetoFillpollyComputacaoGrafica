@@ -1,8 +1,5 @@
-para preecher eu utilizo 
+Projeto entregue 11/08/2025
+por KAUAN, MATEUS, RYAN E SAMMUEL
+o projeto faz Preenchimento de Polígonos com Interpolação de Cores (Gouraud)
 
-atividade interface, vou clicar em varios pontos, formando um polígono, 
-ai eu devo colocar um uma cor em cada vértice e vou pintar de uma forma interpolada
-os algoritmos serão fillpolly, algoritmo de scanline e interpolação de cores.
-
-explicar o código que faz a interpolação fora e dentro da scanline.
-entre arestas e entre a scanline.
+Para rodar é necessário ter na máquina o pygame e o python.
